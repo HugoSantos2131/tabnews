@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> A partir de agora vem outros desafios no curso </h1>
+    return <h1> Fazendo um projeto com Luiz Nagata </h1>
 }
 
 export default Home;
